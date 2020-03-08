@@ -9,13 +9,6 @@ For the utility to work properly, the n98-magerun2 CLI tool for Magento2 needs t
 
 `  https://files.magerun.net/n98-magerun2.phar `
 
-
-
-
-You can test it is installed correctly using the following command:
-
-``` n98-magerun2.phar list```
-
 ### Installation
 To install the utility on your system you need to download (clone) it from this git repository:
 
