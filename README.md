@@ -20,7 +20,10 @@ You can test this is installed correctly using the following command:
 ### Installation
 To install the utility on your system you need simply to downoad it from this git repository:
 
-``` git clone https://github.com/quantiota/magento-backup-rollback ```
+``` git clone https://github.com/quantiota/magento-backup-rollback 
+cd magento-backup-rollback
+chmod +x backup.sh rollback.sh
+```
 
 ## Usage:
 ### Default Variables:
