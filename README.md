@@ -11,9 +11,9 @@ For the scripts to work properly, the n98-magerun2 CLI tool for Magento2 needs t
 wget https://files.magerun.net/n98-magerun2.phar
 chmod +x n98-magerun2.phar
 sudo mv n98-magerun2.phar /usr/local/bin/
-
 ```
 
-
+You can test this is installed correctly using the following command:
+``` n98-magerun2.phar list```
 
 
