@@ -27,12 +27,16 @@ To install the utility on your system you need simply to downoad it from this gi
 Some default values are defined on the utility such as `backup location` and Magento `DocumentRoot`, Please change those variable according to your setup.
 
 `MAGENTO_ROOT` default value is  `/var/www/html/magento`
+
 `BACKUP_PATH` default value is `/var/www/html/magento/var/backups`
 
 ### Options
 The `backup.sh` script doean not accept any options.
+
 The `rollback.sh` script accepts two options:
+
     -f : To specify the archived files version to be retrored.
+    
     -d : To specify the archived database version to be restored.
 ## Examples
 ### To backup files and database into default location:
