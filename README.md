@@ -12,7 +12,8 @@ For the utility to work properly, the n98-magerun2 CLI tool for Magento2 needs t
 ### Installation
 To install the utility on your system you need to download (clone) it from this git repository:
 
-``` git clone https://github.com/quantiota/magento-backup-rollback 
+```
+git clone https://github.com/quantiota/magento-backup-rollback 
 cd magento-backup-rollback
 chmod +x backup.sh rollback.sh
 ```
